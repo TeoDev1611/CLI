@@ -1,5 +1,7 @@
 # 🧰 Moldy: the best tool to start your project
 
+![Moldy Logo](./img/logo-ligth.svg)
+
 You don't know how to start your project ... you want to help other people know your tool or language. Use Moldy! the best helper to start your project
 
 ## 🧐 Contribute
