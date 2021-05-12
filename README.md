@@ -44,6 +44,14 @@ For any other transtation make a pull request the spanish history is the origina
 2. @TeoDev1611 [here](https://github.com/TeoDev1611) CLI, Documentation and Founder Developer
 3. @NikolaM-Dev [here](https://github.com/NikolaM-Dev) Icon Desing
 
+# Social media
+
+Moldy is on the following social networks
+
+1. [Twitter](https://twitter.com/Moldy-Community)
+2. [Discord](https://discord.gg/FgjGwBd99a)
+3. [Github](https://github.com/Moldy-Community)
+
 
 ---
 
