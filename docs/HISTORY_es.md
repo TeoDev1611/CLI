@@ -21,5 +21,5 @@ Una herramienta simple pero poderosa sin miles de comandos pero en el caso de qu
 Moldy esta en las siguientes redes sociales
 
 1. [Twitter](https://twitter.com/Moldy-Community)
-2. [Discord](https://example.com)
+2. [Discord](https://discord.gg/FgjGwBd99a)
 3. [Github](https://github.com/Moldy-Community)
