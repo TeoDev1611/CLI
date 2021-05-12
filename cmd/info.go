@@ -2,6 +2,7 @@ package cmd
 
 import (
 	"fmt"
+
 	"github.com/spf13/cobra"
 )
 
@@ -30,7 +31,7 @@ Repository: www.github.com/Moldy/Cli
 Web Page: www.moldy.github.io
 
 -----------------------------------------------------
-Made with love in Ecuador and Colombia
+Made with love in Ecuador.
 `)
 	},
 }

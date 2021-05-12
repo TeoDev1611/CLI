@@ -4,17 +4,13 @@ import (
 	"github.com/spf13/cobra"
 )
 
-// rootCmd represents the base command when called without any subcommands
-
-// rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "moldy",
 	Short: "Moldy the best project starter of the world",
-	Long:  `The best tool for initialize your project`,
+	Long: `
+The best tool for initialize your project
+For more information run the info command.`,
 }
-
-// Execute adds all child commands to the root command and sets flags appropriately.
-// This is called by main.main(). It only needs to happen once to the rootCmd.
 
 func Execute() {
 	cobra.CheckErr(rootCmd.Execute())
